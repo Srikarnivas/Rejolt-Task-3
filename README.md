@@ -1,6 +1,7 @@
 # Rejolt_Task_3
 
 Project Name: Travel Itinerary Planner
+
 Description: Develop an itinerary planner where users can plan trips by adding destinations, accommodations, activities, and daily schedules. Users can view their itinerary in a calendar format and make adjustments.
 
 React Usage:
